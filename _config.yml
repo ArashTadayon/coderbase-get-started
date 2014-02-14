@@ -1,0 +1,9 @@
+# The following three options specify
+# a madlibs-style description of yourself.
+# I ____________  at ____________________.
+# I like ________________________________.
+# No need for periods, we'll add them :)
+
+I: build foos
+at: Dezapp
+I like: to baz!
